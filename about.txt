@@ -1,1 +1,2 @@
-This is my first GitHub Project! I am learning GitHub step by step.
+This is my first GitHub Project! 
+I am learning GitHub step by step.
