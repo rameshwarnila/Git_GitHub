@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 This is my first GitHub Project!
 I am learning GitHub step by step. Let's start learning this process.  
+=======
+This is my first GitHub Project! 
+I am learning GitHub step by step. 
+>>>>>>> Stashed changes
