@@ -7,13 +7,15 @@ Git
 - Version control system is a tool that helps to track changes in code. 
 - Git is a version control system. 
 It is: - 
-1. Popular 
-2. Free and Open source 
-3. Fast and scalable 
-Git helps us to – 
-1. Track the history / Save version of project 
-2. Collaborate with others
-3. Revert back to previous versions if something goes wrong
+ 1. Popular 
+ 2. Free and Open source 
+ 3. Fast and scalable 
+ 
+ Git helps us to â€“ 
+ 1. Track the history / Save version of project 
+ 2. Collaborate with others
+ 3. Revert back to previous versions if something goes wrong
+
 GitHub
 - GitHub is a platform that helps developers collaborate, manage code versions, and host projects. 
 - Basically, it is a website that allows developers to store and manage their code using Git. 
@@ -21,19 +23,21 @@ GitHub
 1. Collaborate with others
 2. Review code
 3. Manage projects
+
 - https://github.com/
 - Create a GitHub profile by using this link. 
 - Create a new repository. 
 - Click on new button. 
 - Provide name of repository. 
+
 Follow These Steps:
 1. Create a Repository on GitHub
-Go to github.com ?? Click New Repository ?? Name it: XYZ 
-? Choose Public
-? Check Add a README file
-? Click Create Repository
+   Go to github.com ?? Click New Repository ?? Name it: XYZ 
+ - Choose Public
+ - Check Add a README file
+ - Click Create Repository
 
-
+![image](https://github.com/user-attachments/assets/dc863ea9-c81f-4688-91d3-d3ac953b6928)
 
 
  Here's a quick overview of what you can learn:
